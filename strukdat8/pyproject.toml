@@ -1,0 +1,14 @@
+[project]
+name = "strukdat8"
+version = "0.1.0"
+description = "Praktikum Struktur Data - Visualisasi Data (Matplotlib + Streamlit)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "openpyxl>=3.1.5",
+    "pandas>=3.1.1",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "streamlit>=1.67.0",
+]
